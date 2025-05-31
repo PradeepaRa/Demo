@@ -38,6 +38,7 @@
   <div class="box">
     <h1>🚀 Jenkins CI/CD Pipeline - Automation Demo</h1>
     <p>This page was deployed automatically using Jenkins!</p>
+    <p>Thank You Everyone for your time! </p>
   </div>
   <div class="footer">
     &copy; <?php echo date("Y"); ?> DevOps Demo • PHP Deployment
