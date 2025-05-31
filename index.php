@@ -1,3 +1,3 @@
 <?php 
-echo "<h1>PHP CI/CD Test Page.Lets check erggfgfgf</h1>"; 
+echo "<h1>Jenkins CI-CD Pipeline - Automation</h1>"; 
 ?>
